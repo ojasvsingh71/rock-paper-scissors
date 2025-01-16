@@ -1,0 +1,81 @@
+body{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    text-transform: capitalize;
+    background-color: rgb(173, 73, 225);
+}
+.heading{
+    background-color: rgb(46, 7, 63);
+    height: 13vmin;
+    color: white;
+    font-size: 8vmin;
+    font-family: monospace;
+    padding-top: 3vmin;
+}
+.btns{
+    margin-top: 7vmin;
+    margin-right: 6vmin;
+    height: 20vmin;
+    width: 20vmin;
+    border-radius: 20%;
+    background-size: cover;
+    background-color: rgb(235, 211, 248);
+}
+#rock{
+    background-image: url("stone.png");
+}
+#paper{
+    background-image: url("paper-plane.png");
+}
+#scissor{
+    background-image: url("scissor.png");
+}
+.score{
+    
+    height: 10vmin;
+    width: 25vmin;
+    margin-left: 50%;
+    margin-top: 10vmin;
+    translate: -50%;
+    display: flex;
+    flex-wrap: wrap;
+}
+#userptn{
+    margin-bottom: 2vmin;
+    width: 10vmin;
+    height: 5vmin;
+    font-size: 5vmin;
+    margin-right: 5vmin;
+}
+#comptn{
+    
+    width: 10vmin;
+    height: 5vmin;
+    font-size: 5vmin;
+}
+#usermsg{
+    width:10vmin ;
+    height: 5vmin;
+    font-size: 3vmin;
+    margin-right: 5vmin;
+}
+#commsg{
+    width: 10vmin;
+    height: 5vmin;
+    font-size: 3vmin;
+}
+.msg{
+    font-size: 7vmin;
+    margin-top: 10vmin;
+}
+.reset{
+    height: 5vmin;
+    width: 10vmin;
+    border-radius: 15%;
+    margin-top: 3vmin;
+    margin-left: 100vmin;
+    text-transform: capitalize;
+    color: white;
+    background-color: rgb(46, 7, 63);
+}
