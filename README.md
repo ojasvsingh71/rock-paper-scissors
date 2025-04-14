@@ -18,3 +18,7 @@ This is a simple **Rock Paper Scissors** game built with HTML, CSS, and JavaScri
 - Random computer moves
 - Win/lose/draw logic
 - Score tracking
+
+## 🧠 Author
+
+Made with ❤️ by [Ojasv Singh...∞](https://github.com/ojasvsingh71)
