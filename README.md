@@ -21,4 +21,12 @@ This is a simple **Rock Paper Scissors** game built with HTML, CSS, and JavaScri
 
 ## 📁 Project Structure
 
-rock-paper-scissors/ ├── index.html ├── style.css ├── script.js
+rock-paper-scissors/
+├── index.html     
+├── style.css      
+├── script.js       
+└── img/           
+    ├── rock.png
+    ├── paper.png
+    └── scissors.png
+
