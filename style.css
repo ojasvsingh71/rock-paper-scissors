@@ -23,13 +23,13 @@ body{
     background-color: rgb(235, 211, 248);
 }
 #rock{
-    background-image: url("stone.png");
+    background-image: url("img/stone.png");
 }
 #paper{
-    background-image: url("paper-plane.png");
+    background-image: url("img/paper-plane.png");
 }
 #scissor{
-    background-image: url("scissor.png");
+    background-image: url("img/scissor.png");
 }
 .score{
     
